@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@500&display=swap');
+
+body {
+    background-color: rgb(54, 49, 49);
+}
+
+.home {
+    font-family: 'Sansita Swashed', cursive;
+    cursor: pointer;
+    font-size: 14px
+}
+
+.home:hover {
+    opacity: 30%;
+    color: rgb(124, 6, 235);
+}
+
+.about {
+    font-family: 'Sansita Swashed', cursive;
+    cursor: pointer;
+    font-size: 14px
+}
+
+.about:hover {
+    opacity: 30%;
+    color: rgb(124, 6, 235);
+}
+
+.btn {
+    
+    font-size: 20px;
+    width: 144px;
+    height: 50px;
+}
+
+.a {
+    margin: 50px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.main{
+    font-family: 'Sansita Swashed', cursive;
+}
+.text {
+    
+    color: red;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.text2 {
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    font-size: 25px;
+}
+
+.l {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.un {
+    display: flex;
+    justify-content: center;
+    margin: 49px;
+}
+
+.textt {
+    color: rgb(219, 27, 27);
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    font-size: 22px;
+
+}
+
+.img3 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.texttt {
+    
+    color: rgb(219, 27, 27);
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+
+    font-size: 22px;
+}
+
+.imgg {
+    display: flex;
+    justify-content: center;
+}
+.img4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+}
